@@ -1,3 +1,3 @@
 # Project-3
 Parse Log File
-### First i will import the text file into jupyternotebook. Then I will define my expressions. I will write a line parser and then a file parser.
+### Import necessary modules then define dictionaries. Loop through dictionaries and define logic
